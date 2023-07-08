@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5a5f31f5.css","mappings":"AAAA,MAMI,wBAAwB,CALxB,aAAc,CAEd,gBAAiB,CACjB,iBAAkB,CAFlB,YAAa,CAGb,SAEJ","sources":["index.css"],"sourcesContent":[".grid{\n    display: block;\n    padding: 25px;\n    margin-left: auto;\n    margin-right: auto;\n    width: 40%;\n    background-color:#7898c1;\n}"],"names":[],"sourceRoot":""}
